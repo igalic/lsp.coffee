@@ -1,0 +1,24 @@
+{
+  "name": "lsp.coffee",
+  "version": "1.0.0",
+  "description": "minimal lisp to javascript transpiler written in coffee script",
+  "main": "bin/lsp.coffee",
+  "scripts": {
+    "test": "t/run.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/igalic/lsp.coffee.git"
+  },
+  "keywords": [
+    "lisp",
+    "coffee",
+    "transpiler"
+  ],
+  "author": "Igor Galić",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/igalic/lsp.coffee/issues"
+  },
+  "homepage": "https://github.com/igalic/lsp.coffee#readme"
+}
